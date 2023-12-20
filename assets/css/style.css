@@ -127,3 +127,9 @@ footer {
         margin-top: 79px;
     }
 }
+
+@media screen and (mid-width: 992px){
+    #media a:hover {
+        border-bottom: 1px solid #3a3a3a;
+    }
+}
